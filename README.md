@@ -14,38 +14,22 @@ Testing Highlights
 Both A/B testing and hypothesis testing were applied to compare the effectiveness of Light and Dark themes across key engagement metrics:
 - Click Through Rate (CTR):
 <br> - 🔹 Hypothesis test result: Statistically significant difference (p = 0.048).
-
-🔸 Conclusion: Dark Theme users clicked more frequently on-site elements.
-
-Conversion Rate:
-
-🔹 A/B test result: Light Theme had a slightly higher conversion rate.
-
-🔸 Statistical test: Not significant (p = 0.635).
-
-⚠️ Conclusion: No reliable evidence one theme converts better.
-
-Bounce Rate:
-
-🔹 Slightly lower for Light Theme, but difference not significant.
-
-🔸 Conclusion: Theme choice does not affect bounce behavior meaningfully.
-
-Scroll Depth:
-
-🔹 Light Theme users scrolled slightly deeper on average.
-
-🔸 Statistical test: Not significant (p = 0.450).
-
-⚠️ Conclusion: No theme-based impact on scroll engagement.
-
-Session Duration:
-
-🔹 Light Theme users spent marginally more time on-site.
-
-🔸 A/B test result: No significant difference found.
-
-⚠️ Conclusion: Session time is similar for both themes.
+<br> - 🔸 Conclusion: Dark Theme users clicked more frequently on-site elements.
+- Conversion Rate:
+<br> - 🔹 A/B test result: Light Theme had a slightly higher conversion rate.
+<br> - 🔸 Statistical test: Not significant (p = 0.635).
+<br> - ⚠️ Conclusion: No reliable evidence one theme converts better.
+- Bounce Rate:
+<br> - 🔹 Slightly lower for Light Theme, but difference not significant.
+<br> - 🔸 Conclusion: Theme choice does not affect bounce behavior meaningfully.
+- Scroll Depth:
+<br> - 🔹 Light Theme users scrolled slightly deeper on average.
+<br> - 🔸 Statistical test: Not significant (p = 0.450).
+<br> - ⚠️ Conclusion: No theme-based impact on scroll engagement.
+- Session Duration:
+<br> - 🔹 Light Theme users spent marginally more time on-site.
+<br> - 🔸 A/B test result: No significant difference found.
+<br> - ⚠️ Conclusion: Session time is similar for both themes.
 ## 💡 Key Insights
 - 🔍 Dark Theme slightly outperforms in Click Through Rate, with statistically significant results.
 - ⚖️ No strong evidence that either theme leads to higher conversions, lower bounce, or deeper engagement.
