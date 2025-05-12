@@ -14,7 +14,7 @@ Testing Highlights
 Both A/B testing and hypothesis testing were applied to compare the effectiveness of Light and Dark themes across key engagement metrics:
 - Click Through Rate (CTR):
 
-- - 🔹 Hypothesis test result: Statistically significant difference (p = 0.048).
+ - 🔹 Hypothesis test result: Statistically significant difference (p = 0.048).
 
 🔸 Conclusion: Dark Theme users clicked more frequently on-site elements.
 
